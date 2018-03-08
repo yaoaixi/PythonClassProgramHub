@@ -1,3 +1,1 @@
-# PythonClassProgramHub
-
-ตฺศýื้ฃบ
+# Group 3:

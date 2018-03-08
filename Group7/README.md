@@ -1,3 +1,1 @@
-# PythonClassProgramHub
-
-µÚÆß×é£º
+# Group 7:
