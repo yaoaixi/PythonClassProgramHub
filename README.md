@@ -11,5 +11,5 @@ Group5:
 Group6:
 Group7:
 Group8:
-Group9:
+Group9:韩鑫(组长)  付善斌，邵男，朱雪，杨树宁，张健权，刘亚晶
 Group10:
