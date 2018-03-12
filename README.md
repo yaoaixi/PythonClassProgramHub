@@ -3,8 +3,8 @@
 齐大计本15级python项目汇总(Group1 - Group10)
 
 分组情况：<br>
-<table align="center">
-	<tr><td>组号</td><td>组长</td><td>组员</td></tr>
+<table align="center" valign="center">
+	<tr><td align="center">组号</td><td align="center">组长</td><td align="center">组员</td></tr>
 	<tr><td>Group1</td><td></td><td></td></tr>
 	<tr><td>Group2</td><td></td><td></td></tr>
 	<tr><td>Group3</td><td></td><td></td></tr>
