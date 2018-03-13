@@ -5,7 +5,7 @@
 分组情况：<br>
 <table align="center" valign="center">
 	<tr><td align="center">组号</td><td align="center">组长</td><td align="center">组员</td></tr>
-	<tr><td>Group1</td><td></td><td></td></tr>
+	<tr><td>Group1</td><td>马腾</td><td>侯广建，覃超强，姚康康，曹兰芳，王利莹</td></tr>
 	<tr><td>Group2</td><td></td><td></td></tr>
 	<tr><td>Group3</td><td></td><td></td></tr>
 	<tr><td>Group4</td><td></td><td></td></tr>
