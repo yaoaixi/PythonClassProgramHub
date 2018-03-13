@@ -6,7 +6,7 @@
 <table align="center" valign="center">
 	<tr><td align="center">组号</td><td align="center">组长</td><td align="center">组员</td></tr>
 	<tr><td>Group1</td><td>马腾</td><td>侯广建，覃超强，姚康康，曹兰芳，王利莹</td></tr>
-	<tr><td>Group2</td><td></td><td></td></tr>
+	<tr><td>Group2</td><td>许飞</td><td>李国盛，刘世杰，郭子阳，刘颖，王言琦</td></tr>
 	<tr><td>Group3</td><td></td><td></td></tr>
 	<tr><td>Group4</td><td></td><td></td></tr>
 	<tr><td>Group5</td><td>李达</td><td>方斌，徐静，张露，唐日美，刘双双</td></tr>
